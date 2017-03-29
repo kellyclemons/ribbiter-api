@@ -18,7 +18,7 @@ module.exports = {
   |
   */
   authenticator: 'jwt',
-
+// CHANGES
   /*
   |--------------------------------------------------------------------------
   | Session Authenticator
